@@ -1,11 +1,10 @@
-Secure Ephemeral File Transfer — a Send Anywhere–style file sharing service built around short-lived, encrypted uploads — no accounts, no tracking, no long-term storage.
+## Secure Ephemeral File Transfer is a Send Anywhere–style file sharing service built around short-lived, encrypted uploads with no accounts, no tracking, and no long-term storage.
 
-Files are encrypted before being stored — access is granted via a temporary link or code — and content is deleted immediately after download or automatically after ~6 hours if never retrieved.
+Files are encrypted before storage. Access is granted through a temporary link or code, and content is deleted immediately after download or automatically after about six hours if never retrieved.
 
-Designed to stay simple and disposable — the system uses Azure Blob Storage for cheap, scalable storage — while keeping encryption and lifecycle control entirely in the application layer.
+The system is designed to stay simple and disposable. It uses Azure Blob Storage for cheap, scalable storage while keeping encryption and lifecycle control entirely within the application layer.
 
-This project exists to explore secure file handling — stateless backend design — automated cleanup — and privacy-first data lifecycles rather than building a full enterprise transfer platform.
-
+This project exists to explore secure file handling, stateless backend design, automated cleanup, and privacy-first data lifecycles rather than replacing enterprise file transfer platforms.
 
 
 ## TODO / Roadmap
