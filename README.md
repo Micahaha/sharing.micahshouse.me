@@ -1,4 +1,4 @@
-## Secure Ephemeral File Transfer is a Send Anywhere–style file sharing service built around short-lived, encrypted uploads with no accounts, no tracking, and no long-term storage.
+## Sharing.micahshouse.me  is a Send Anywhere–style file sharing service built around short-lived, encrypted uploads with no accounts, no tracking, and no long-term storage.
 
 Files are encrypted before storage. Access is granted through a temporary link or code, and content is deleted immediately after download or automatically after about six hours if never retrieved.
 
